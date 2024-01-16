@@ -20,7 +20,7 @@ Personal Attributes Evaluation:
 
 Beyond academics, the project considers personal attributes that contribute to placement success. Scikit-learn's versatile tools are employed to assess factors such as communication skills, extracurricular activities, and interpersonal skills, creating a holistic view of a student's potential in the professional arena.
 
-	Features: Prediction of placement with the help of academics and personal attributes.
+Features: Prediction of placement with the help of academics and personal attributes.
 	
  Tools and Technologies used: 
  Python
